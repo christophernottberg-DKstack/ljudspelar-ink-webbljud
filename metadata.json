@@ -1,0 +1,11 @@
+{
+  "name": "Remix Ljudinspelare ink webbljud",
+  "description": "Spela in ljud från datorns mikrofon och webbläsarflikar lokalt och spara direkt som MP3. 100% privat och GDPR-säkert.",
+  "requestFramePermissions": [
+    "microphone",
+    "display-capture"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
